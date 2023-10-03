@@ -2,6 +2,12 @@ React Todo List with Context APIs
 
 A simple Todo List application built using React, Context APIs for state management, Firebase as the backend database, and Material-UI for styling.
 
+You can visit the live site by following this link:
+
+    [Live Todo List App](https://lakshithasamod.github.io/react-todo-app/)
+
+![image](https://github.com/LakshithaSamod/react-todo-app/assets/68214865/13bc5c90-e7d5-4b5c-8517-38908437e6b4)
+
 Features of the webapp
 
     Add new tasks to the list.
